@@ -10,7 +10,7 @@
     "strict": true,
     "baseUrl": "./",
   },
-  // "include": ["src/**/*"],
+  "include": ["src/**/*"],
 
     // ts-node settings we added
   "ts-node": {
